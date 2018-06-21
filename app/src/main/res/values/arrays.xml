@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pattern_create">
+        <item>单例模式（Singleton Pattern）</item>
+        <item>工厂模式（Factory Pattern）</item>
+        <item>抽象工厂模式（Abstract Factory Pattern）</item>
+        <item>建造者模式（Builder Pattern）</item>
+        <item>原型模式（Prototype Pattern）</item>
+    </string-array>
+
+    <string-array name="pattern_structure">
+        <item>适配器模式（Adapter Pattern）</item>
+        <item>桥梁模式（Bridge Pattern）</item>
+        <item>装饰模式（Decorator Pattern）</item>
+        <item>外观模式（Facade Pattern）</item>
+        <item>组合模式（Composite Pattern）</item>
+        <item>享元模式（Flyweight Pattern）</item>
+        <item>代理模式（Proxy Pattern）</item>
+    </string-array>
+
+    <string-array name="pattern_behavior">
+        <item>模板模式（Template Pattern）</item>
+        <item>命令模式（Command Pattern）</item>
+        <item>迭代器模式（Iterator Pattern）</item>
+        <item>观察者模式（Observer Pattern）</item>
+        <item>中介者模式（Mediator Pattern）</item>
+        <item>状态模式（State Pattern）</item>
+        <item>策略模式（Strategy Pattern）</item>
+        <item>责任链模式（Chain of responsibility Pattern）</item>
+        <item>访问者模式（Visitor Pattern）</item>
+        <item>备忘录模式（Memento Pattern）</item>
+        <item>解释器模式（Interpreter Pattern）</item>
+    </string-array>
+
+    <string-array name="pattern_singleton">
+        <item>饿汉式</item>
+        <item>枚举类型</item>
+        <item>懒汉式</item>
+        <item>同步锁</item>
+        <item>双重检验锁</item>
+        <item>静态内部类</item>
+    </string-array>
+
+</resources>

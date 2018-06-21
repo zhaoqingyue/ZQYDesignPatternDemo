@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.zqy.designpattern">
+
+    <application
+        android:name=".app.DesignPatternApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/BaseTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".pattern.create.CreateActivity">
+        </activity>
+        <activity android:name=".pattern.structure.StructureActivity">
+        </activity>
+        <activity android:name=".pattern.behavior.BehaviorActivity">
+        </activity>
+        <activity android:name=".pattern.create.singleton.SingletonActivity">
+        </activity>
+        <activity android:name=".pattern.create.singleton.SingletonDesActivity">
+        </activity>
+        <activity android:name=".pattern.create.abstract_factory.AbstractFactoryActivity">
+        </activity>
+        <activity android:name=".pattern.create.factory.FactoryActivity">
+        </activity>
+
+        <activity android:name=".pattern.structure.proxy.ProxyActivity">
+        </activity>
+
+        <activity android:name=".pattern.behavior.observer.ObserverActivity">
+        </activity>
+
+    </application>
+
+</manifest>
