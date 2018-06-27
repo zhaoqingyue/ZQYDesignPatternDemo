@@ -2,7 +2,7 @@ package com.zqy.designpattern.pattern.create.factory;
 
 /**
  * Created by zhaoqy on 2018/6/21.
- * 创建一个工厂，生成基于给定信息的实体类的对象
+ * 步骤3：创建一个工厂，生成基于给定信息的实体类的对象
  */
 public class ShapeFactory {
 

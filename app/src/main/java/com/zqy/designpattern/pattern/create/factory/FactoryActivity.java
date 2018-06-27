@@ -69,6 +69,8 @@ public class FactoryActivity extends BaseActivity {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.btn_run: {
+
+                // 步骤4：使用该工厂，通过传递类型信息来获取实体类的对象
                 ShapeFactory shapeFactory = new ShapeFactory();
 
                 //获取 Circle 的对象，并调用它的 draw 方法
