@@ -14,7 +14,7 @@
 **1. 创建者模式**
 
 - [单例模式](https://github.com/zhaoqingyue/ZQYDesignPatternDemo/blob/master/md/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
-- 工厂模式
+- [工厂模式](https://github.com/zhaoqingyue/ZQYDesignPatternDemo/blob/master/md/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
 - 抽象工厂模式
 - 建造者模式
 - 原型模式
