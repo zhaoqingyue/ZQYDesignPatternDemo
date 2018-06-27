@@ -5,7 +5,6 @@ package com.zqy.designpattern.pattern.create.singleton;
  * 枚举类型
  * 初始化单例类时，创建单例，线程安全
  */
-
 public enum  SingletonTwo {
 
     //定义1个枚举的元素，即为单例类的1个实例
