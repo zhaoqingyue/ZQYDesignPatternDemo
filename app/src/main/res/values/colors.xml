@@ -5,7 +5,6 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="white">#FFFFFF</color>
-
     <color name="colorBar">#009688</color>
     <color name="colorWindows">#F5F5F5</color>
     <color name="colorTitle">#222222</color>
@@ -13,6 +12,5 @@
 
     <color name="colorDisable">#A7A7A7</color>
     <color name="colorEnable">#009C52</color>
-
 
 </resources>

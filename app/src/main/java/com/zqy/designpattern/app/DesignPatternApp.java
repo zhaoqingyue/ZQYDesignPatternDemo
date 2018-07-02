@@ -30,6 +30,8 @@ public class DesignPatternApp extends Application {
         sContext = this;
         Utils.init(this);
         initLog();
+
+//        sendBroadcast(intent);
     }
 
     public void initLog() {
